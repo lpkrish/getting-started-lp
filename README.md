@@ -16,5 +16,6 @@ The table below describes the tasks I performed and the issues i noticed while c
 
 The snapshot below is of the image I created in the docker container.
 ![Docker Container Image](https://github.com/lpkrish/lpkrish.github.io/blob/main/docker.png "Image") 
-The snapshot below is of the Start button to run the image.
-![Run Image](https://github.com/lpkrish/lpkrish.github.io/blob/main/Image%20Run.png "Run Image") 
+The snapshot below is of the container running.
+![Start Image](https://github.com/lpkrish/lpkrish.github.io/blob/main/Image%20Run.png "Start Image") 
+The snapshot below is of the 
