@@ -18,5 +18,5 @@ The snapshot below is of the image I created in the docker container.
 ![Docker Container Image](https://github.com/lpkrish/lpkrish.github.io/blob/main/docker.png "Image") 
 The snapshot below is of the container running.
 ![Start Image](https://github.com/lpkrish/lpkrish.github.io/blob/main/Image%20Run.png "Start Image") 
-The snapshot below is of app in the web browser.
-![Start Image](https://github.com/lpkrish/lpkrish.github.io/blob/main/Image%20Run.png "Start Image")
+The snapshot below is of running application in the Web browser.
+![Start Image](https://github.com/lpkrish/lpkrish.github.io/blob/main/Outcome.png "Start Image")
