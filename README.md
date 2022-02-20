@@ -14,5 +14,5 @@ The table below describes the tasks I performed and the issues i noticed while c
 |2|Get Familiar with Docker Desktop |I followed the instructions at <https://docs.docker.com/get-started/>.| No information is provided about installing Git on WSL2. | Installed using the command `sudo apt install git`. |
 |3|Download and Run a Simple Application in a Docker Container. |  I followed the instructions at <https://docs.docker.com/get-started/02_our_app/>,| Step 1. in the section **Build the app’s container image** is incorrect. | The correct folder to build the image is the parent folder of the folder in which the docker file is added. |
 
-The snapshot below is of the image created in the docker container.
+The snapshot below is of the image I created in the docker container.
 ![Docker Container Image](https://github.com/lpkrish/lpkrish.github.io/blob/main/docker.png "Image") 
