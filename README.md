@@ -1,4 +1,3 @@
-# Download and Run a Simple Application in a Docker Container
 I did the following steps successfully: 
 1. Downloaded the docker on Windows.
 2. Downloaded the sample application from https://github.com/docker/getting-started/tree/master/app and added a docker file to it.
