@@ -14,8 +14,10 @@ The table below describes the tasks I performed and the issues I noticed while c
 
 The snapshot below is of the image I created in the docker container.
 ![docker](https://user-images.githubusercontent.com/99960154/154833572-d8c8284d-f236-45c1-be34-8a209cb94fc6.png)
+
 The snapshot below is of the container running.
 ![Image Run](https://user-images.githubusercontent.com/99960154/154833585-221a8bb6-b60c-4cef-8f88-937d9149a0e4.png)
+
 The snapshot below is of running application in the Web browser.
 ![Outcome](https://user-images.githubusercontent.com/99960154/154833596-f7731f5a-eb31-405d-ab62-facd574a88cb.png)
 
