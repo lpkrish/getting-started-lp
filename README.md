@@ -7,8 +7,7 @@ The table below describes the tasks I performed:
 |------|--------------|---------------| --------|
 | 1. Install Docker Desktop on Windows | I followed the instructions at https://docs.docker.com/docker-for-windows/install/. | The Prerequisites section is not added. | Sound knowledge of Linux is required. It should be listed in the section "Prerequisites". |
 | 2. Get Familiar with Docker Desktop |I followed the instructions at https://docs.docker.com/get-started/.| No information is provided about installing Git on WSL2. | Installed using the command `sudo apt install git`. |
-## 
-To install Docker on Windows, 
+
 ## Feelings on accomplishing this most amazing task
 
 
