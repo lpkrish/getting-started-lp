@@ -13,8 +13,9 @@ The table below describes the tasks I performed and the issues I noticed while c
 |3|Download and Run a Simple Application in a Docker Container. |  I followed the instructions at <https://docs.docker.com/get-started/02_our_app/>,| Step 1 in the section **Build the app’s container image** is incorrect. | The correct folder to build the image is the parent folder of the folder in which the Dockerfile is added. |
 
 The snapshot below is of the image I created in the docker container.
-![Docker Container Image](https://github.com/lpkrish/lpkrish.github.io/blob/main/docker.png "Image") 
+![docker](https://user-images.githubusercontent.com/99960154/154833572-d8c8284d-f236-45c1-be34-8a209cb94fc6.png)
 The snapshot below is of the container running.
-![Start Image](https://github.com/lpkrish/lpkrish.github.io/blob/main/Image%20Run.png "Start Image") 
+![Image Run](https://user-images.githubusercontent.com/99960154/154833585-221a8bb6-b60c-4cef-8f88-937d9149a0e4.png)
 The snapshot below is of running application in the Web browser.
-![Running Application](https://github.com/lpkrish/lpkrish.github.io/blob/main/Outcome.png "Running Application")
+![Outcome](https://user-images.githubusercontent.com/99960154/154833596-f7731f5a-eb31-405d-ab62-facd574a88cb.png)
+
